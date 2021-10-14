@@ -36,7 +36,12 @@ namespace WebApi.Controllers
 
             return Ok(new BaseResponse<IReadOnlyList<UserDto>>(data, $"User List"));
         }
-
+        [HttpPost("register")]
+        public async Task<IActionResult> RegisterAsync(RegisterRequest request)
+        {
+            var uri = $"{Request.Scheme}://{Request.Host.Value}";
+            return Ok(await _accountService.RegisterAdminAsync(request, uri));
+        }
         [Cached(1)]
         [Authorize(Roles = "SuperAdmin")]
         [HttpGet("alluserwithroles")]
