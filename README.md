@@ -101,6 +101,6 @@ This template project has been developed to ensure that the necessary structures
 wende61/api-template Project is licensed with the [MIT License](https://github.com/sinantok/aspnetcore-webapi-template/blob/master/LICENSE).
 
 ## About the Author
-### Sinan Tok
-- Github [github.com/sinantok](https://github.com/sinantok)
-- Linkedin - [Sinan Tok](https://www.linkedin.com/in/sinantok/)
+### Wendafrash Buzuayew
+- Github [github.com/wende61](https://github.com/wende61)
+- Linkedin - [Wendafrash Buzuayew](https://www.linkedin.com/in/wendafrash-buzuayew-a223a9135/)
