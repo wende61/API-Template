@@ -96,12 +96,9 @@ This template project has been developed to ensure that the necessary structures
 - .NET Core 5 SDK and above
 - Basic Understanding of Architectures and Clean Code Principles
 
-## Give a Star ⭐️
-If you found this Implementation helpful or used it in your Projects, do give it a star. Thanks!
-
 ## Licensing
 
-sinantok/aspnetcore-webapi-template Project is licensed with the [MIT License](https://github.com/sinantok/aspnetcore-webapi-template/blob/master/LICENSE).
+wende61/api-template Project is licensed with the [MIT License](https://github.com/sinantok/aspnetcore-webapi-template/blob/master/LICENSE).
 
 ## About the Author
 ### Sinan Tok
